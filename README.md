@@ -4,8 +4,9 @@ Minimalistic Quake-Inspired Online Multiplayer Shooter made in C++ using OpenGL 
 
 
 
-https://github.com/user-attachments/assets/ddcb93cb-9b5d-4480-9d37-f4d1b4bd544e
 
+
+![RSGOPreview](https://github.com/user-attachments/assets/b2f4fdcc-34f2-4ba3-9283-145fd9959a6c)
 
 
 ### AUTHORS: midtxwn & kentalives @ Github
