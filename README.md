@@ -2,6 +2,12 @@
 
 Minimalistic Quake-Inspired Online Multiplayer Shooter made in C++ using OpenGL and minimal dependencies. Network model is implemented through raw sockets and follows a non-authoritative replication model where all input is trusted.
 
+
+
+https://github.com/user-attachments/assets/ddcb93cb-9b5d-4480-9d37-f4d1b4bd544e
+
+
+
 ### AUTHORS: midtxwn & kentalives @ Github
 Original creation date: 16/05/2024
 # LAUNCHING THE GAME: 
