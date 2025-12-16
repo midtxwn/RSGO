@@ -1,0 +1,97 @@
+﻿  externObject.cpp
+  main.cpp
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(74,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(124,12): warning C4305: '-=': truncamiento de 'const double' a 'float'
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(992,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(993,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  network.cpp
+C:\Users\ojoas\Desktop\rs2\RSGO\network.cpp(155,19): warning C4244: 'argumento': conversión de 'const double' a 'DWORD'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\network.cpp(166,13): warning C4101: 'rec': variable local sin referencia
+  glad.c
+LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/LTCG'
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\ojoas\Desktop\rs2\RSGO\network.cpp(247): warning C4715: 'network::server': no todas las rutas de acceso de control devuelven un valor
+  All 1476 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  RSGO.vcxproj -> C:\Users\ojoas\Desktop\rs2\Release\RSGO.exe

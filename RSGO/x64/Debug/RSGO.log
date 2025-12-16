@@ -1,0 +1,148 @@
+﻿  externObject.cpp
+C:\Users\ojoas\Desktop\rs2\RSGO\externObject.cpp(120,80): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\externObject.cpp(121,78): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\externObject.cpp(122,90): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\externObject.cpp(197,20): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\externObject.cpp(283,29): warning C4838: la conversión de 'unsigned __int64' en 'unsigned int' requiere una conversión de restricción
+C:\Users\ojoas\Desktop\rs2\RSGO\externObject.cpp(283,29): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\externObject.cpp(393,33): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  main.cpp
+C:\Users\ojoas\Desktop\rs2\RSGO\include_lib\lecturaShader_0_9.h(45,18): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(74,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(120,13): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(124,12): warning C4305: '-=': truncamiento de 'const double' a 'float'
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(130,13): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,26): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,50): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,77): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(248,102): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,26): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,50): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,77): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(249,102): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,26): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,50): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,77): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(257,102): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,26): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,50): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,77): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244: 'argumento': conversión de 'T' a 'glm::tvec3<float,glm::packed_highp>::length_type'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244:         with
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244:         [
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244:             T=float
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(258,102): warning C4244:         ]
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(481,21): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(533,14): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(541,22): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(604,21): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(992,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\main.cpp(993,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  network.cpp
+C:\Users\ojoas\Desktop\rs2\RSGO\network.cpp(155,19): warning C4244: 'argumento': conversión de 'const double' a 'DWORD'; posible pérdida de datos
+C:\Users\ojoas\Desktop\rs2\RSGO\network.cpp(166,13): warning C4101: 'rec': variable local sin referencia
+  Generando código...
+C:\Users\ojoas\Desktop\rs2\RSGO\network.cpp(247,1): warning C4715: 'network::server': no todas las rutas de acceso de control devuelven un valor
+C:\Users\ojoas\Desktop\rs2\RSGO\externObject.cpp(386,1): warning C4172: dirección de devolución de variable local o temporal : ret
+  glad.c
+main.obj : error LNK2019: símbolo externo glfwInit sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwTerminate sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwGetVersion sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwWindowHint sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwCreateWindow sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwWindowShouldClose sin resolver al que se hace referencia en la función "void __cdecl mainLoop(struct GLFWwindow *,double &,class std::vector<struct entity *,class std::allocator<struct entity *> >)" (?mainLoop@@YAXPEAUGLFWwindow@@AEANV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+main.obj : error LNK2019: símbolo externo glfwSetWindowShouldClose sin resolver al que se hace referencia en la función "void __cdecl keyEvents(struct GLFWwindow *,int,int,int,int)" (?keyEvents@@YAXPEAUGLFWwindow@@HHHH@Z)
+main.obj : error LNK2019: símbolo externo glfwRestoreWindow sin resolver al que se hace referencia en la función "void __cdecl keyEvents(struct GLFWwindow *,int,int,int,int)" (?keyEvents@@YAXPEAUGLFWwindow@@HHHH@Z)
+main.obj : error LNK2019: símbolo externo glfwMaximizeWindow sin resolver al que se hace referencia en la función "void __cdecl keyEvents(struct GLFWwindow *,int,int,int,int)" (?keyEvents@@YAXPEAUGLFWwindow@@HHHH@Z)
+main.obj : error LNK2019: símbolo externo glfwSetFramebufferSizeCallback sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwPollEvents sin resolver al que se hace referencia en la función "void __cdecl mainLoop(struct GLFWwindow *,double &,class std::vector<struct entity *,class std::allocator<struct entity *> >)" (?mainLoop@@YAXPEAUGLFWwindow@@AEANV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+main.obj : error LNK2019: símbolo externo glfwSetInputMode sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwRawMouseMotionSupported sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwGetKey sin resolver al que se hace referencia en la función "void __cdecl keyEvents(struct GLFWwindow *,int,int,int,int)" (?keyEvents@@YAXPEAUGLFWwindow@@HHHH@Z)
+main.obj : error LNK2019: símbolo externo glfwSetCursorPos sin resolver al que se hace referencia en la función "void __cdecl mouseEvents(struct GLFWwindow *,double,double)" (?mouseEvents@@YAXPEAUGLFWwindow@@NN@Z)
+main.obj : error LNK2019: símbolo externo glfwSetKeyCallback sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwSetMouseButtonCallback sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwSetCursorPosCallback sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwGetTime sin resolver al que se hace referencia en la función "void __cdecl updateDecals(double &)" (?updateDecals@@YAXAEAN@Z)
+main.obj : error LNK2019: símbolo externo glfwSetTime sin resolver al que se hace referencia en la función "void __cdecl updateDecals(double &)" (?updateDecals@@YAXAEAN@Z)
+main.obj : error LNK2019: símbolo externo glfwMakeContextCurrent sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwSwapBuffers sin resolver al que se hace referencia en la función "void __cdecl mainLoop(struct GLFWwindow *,double &,class std::vector<struct entity *,class std::allocator<struct entity *> >)" (?mainLoop@@YAXPEAUGLFWwindow@@AEANV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+main.obj : error LNK2019: símbolo externo glfwGetProcAddress sin resolver al que se hace referencia en la función main
+network.obj : error LNK2019: símbolo externo __imp_accept sin resolver al que se hace referencia en la función "int __cdecl network::server(unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?server@network@@YAHGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_bind sin resolver al que se hace referencia en la función "int __cdecl network::server(unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?server@network@@YAHGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_closesocket sin resolver al que se hace referencia en la función "int __cdecl network::server(unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?server@network@@YAHGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_connect sin resolver al que se hace referencia en la función "void __cdecl network::client(char *,unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?client@network@@YAXPEADGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_htonl sin resolver al que se hace referencia en la función "int __cdecl network::server(unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?server@network@@YAHGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_htons sin resolver al que se hace referencia en la función "void __cdecl network::client(char *,unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?client@network@@YAXPEADGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_listen sin resolver al que se hace referencia en la función "int __cdecl network::server(unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?server@network@@YAHGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_ntohs sin resolver al que se hace referencia en la función "int __cdecl network::server(unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?server@network@@YAHGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_recv sin resolver al que se hace referencia en la función "int __cdecl network::networkEventProcessor(unsigned __int64 *,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?networkEventProcessor@network@@YAHPEA_KAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_send sin resolver al que se hace referencia en la función "void __cdecl network::sendGameEvent(unsigned long,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?sendGameEvent@network@@YAXKAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_socket sin resolver al que se hace referencia en la función "void __cdecl network::client(char *,unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?client@network@@YAXPEADGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_WSAStartup sin resolver al que se hace referencia en la función "void __cdecl network::client(char *,unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?client@network@@YAXPEADGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_WSAGetLastError sin resolver al que se hace referencia en la función "void __cdecl network::client(char *,unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?client@network@@YAXPEADGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo __imp_inet_pton sin resolver al que se hace referencia en la función "void __cdecl network::client(char *,unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?client@network@@YAXPEADGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+network.obj : error LNK2019: símbolo externo inet_ntop sin resolver al que se hace referencia en la función "int __cdecl network::server(unsigned short,class std::vector<struct entity *,class std::allocator<struct entity *> > &)" (?server@network@@YAHGAEAV?$vector@PEAUentity@@V?$allocator@PEAUentity@@@std@@@std@@@Z)
+C:\Users\ojoas\Desktop\rs2\x64\Debug\RSGO.exe : fatal error LNK1120: 38 externos sin resolver

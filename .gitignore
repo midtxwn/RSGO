@@ -1,0 +1,7 @@
+*.pdb
+*.idb
+*.ipdb
+*.pch
+*.ilk
+*.db
+*.opendb
