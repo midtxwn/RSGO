@@ -10,7 +10,7 @@ Minimalistic Quake-Inspired Online Multiplayer Shooter made in C++ using OpenGL 
 
 
 ### AUTHORS: midtxwn & Kentalives @ Github
-Original creation date: 16/05/2024
+Original creation date: 10/05/2024
 # LAUNCHING THE GAME: 
 Clone the repo, enter /RSGO/ folder, run RSGO.exe in terminal. Once launched, the console will ask for a series of options.
 
