@@ -3,7 +3,7 @@
 Minimalistic Quake-Inspired Online Multiplayer Shooter made in C++ using OpenGL and minimal dependencies. Network model is implemented through raw sockets and follows a non-authoritative replication model where all input is trusted.
 
 ### AUTHORS: midtxwn & kentalives @ Github
-
+Original creation date: 16/05/2024
 # LAUNCHING THE GAME: 
 Clone the repo, enter /RSGO/ folder, run RSGO.exe in terminal. Once launched, the console will ask for a series of options.
 
@@ -39,7 +39,7 @@ the first-person model, which will be discussed later for reasons explained furt
 
 ## COLLISIONS:
 For keyboard movement, collisions with the various map elements are checked
-along each of the object axes, as they are all aligned with the modeling axes.
+along each of the object axis, as they are all aligned with the modeling axis.
 
 When firing, collisions with any component of the opposing player are checked using raycasting
 to determine if the shot hit its target.
