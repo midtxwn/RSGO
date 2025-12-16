@@ -5,3 +5,5 @@
 *.ilk
 *.db
 *.opendb
+*.tlog
+*.idb
